@@ -11,7 +11,8 @@ https://www.cnblogs.com/linyfeng/p/11223707.html
 Remember to change the objectName
 
 ### Transfer file.ui to file.py
-Using 'pyuic5 -o fileName.py fileName.ui'
+Use 'cd desktop' to change path to desktop
+Use 'pyuic5 -o fileName.py fileName.ui'
 
 ### Connect functions with buttons
 Make sure the button names appeared in the code are the same as your defined in file.ui
