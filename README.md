@@ -25,4 +25,6 @@ Open cmd, enter 'pip install pyinstaller', then Using 'where pyinstaller' to che
 
 Then use 'pyinstaller.exe -F call_login.py -w' to pack. **Do not pack .ipynb, it will fail**
 
+If want to change icon, use 'pyinstaller -F -w -i image.ico file.py' 
+
 After pack, the .exe will be stored in dict file
