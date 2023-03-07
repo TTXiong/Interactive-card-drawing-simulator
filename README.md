@@ -10,6 +10,7 @@ https://www.cnblogs.com/linyfeng/p/11223707.html
 
 Remember to change the objectName
 
+## 2.Use python to define function
 ### Transfer file.ui to file.py
 Use 'cd desktop' to change path to desktop
 
@@ -18,6 +19,7 @@ Use 'pyuic5 -o fileName.py fileName.ui'
 ### Connect functions with buttons
 Make sure the button names appeared in the code are the same as your defined in file.ui
 
+## 3.Package python code
 ### Pyinstaller to package .py to .exe
 https://www.cnblogs.com/linyfeng/p/8207149.html
 
